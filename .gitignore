@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+x64/
+Win32/
+ARM64/
+Debug/
+Release/
+*.user
+*.aps
+
+# CMake
+build/
+out/
+CMakeUserPresets.json
